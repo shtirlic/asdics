@@ -30,3 +30,5 @@ Astonishing assets
 * Mass Effect
 * GamePass
 * Assetto Corsa
+* Everlasting Summer
+* Phasmophobia
