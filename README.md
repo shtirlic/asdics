@@ -21,7 +21,8 @@ Astonishing assets
 * ASCII
 * ASP
 * Cassandra
-
+* Asynq
+* JavaScript
 
 
 ## Games
