@@ -23,6 +23,7 @@ Astonishing assets
 * Cassandra
 * Asynq
 * JavaScript
+* KeyPassXC
 
 
 ## Games
