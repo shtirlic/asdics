@@ -24,6 +24,7 @@ Astonishing assets
 * Asynq
 * JavaScript
 * KeyPassXC
+* KDE Plasma
 
 
 ## Games
