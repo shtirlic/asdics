@@ -34,3 +34,5 @@ Astonishing assets
 * Assetto Corsa
 * Everlasting Summer
 * Phasmophobia
+* The Last of Us
+
