@@ -13,6 +13,16 @@ Astonishing assets
 * Swiss Polo Association 
 * Baskin Robbins
 * Fastly
+* Adidas
+* Maserati
+* ASICS
+* Vaseline
+* Nasdaq
+* Taser
+* ASOS
+* BASF
+* Hasbro
+* Taschen
 
 
 ## Tech
@@ -25,6 +35,7 @@ Astonishing assets
 * JavaScript
 * KeyPassXC
 * KDE Plasma
+* Pascal
 
 
 ## Games
